@@ -5,7 +5,7 @@ import argparse
 
 stud_id = '20197905'  # modify `stud_id` to your own value
 app_type = ['flash', 'mem']
-app  = [('hello', 40, 'cmd'), ('load-store', 100, 'cmd')]
+app  = [('hello', 40, 'cmd')]
 #app = [('hello', 40, 'cmd'), ('memtest', 140, 'cmd'),
 #       ('rtthread', 1000, 'cmd'), ('muldiv', 60, 'cmd'), ('kdb', 1000, 'gui')]
 
